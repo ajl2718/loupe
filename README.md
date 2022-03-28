@@ -1,9 +1,9 @@
 # Loupe - Automated detection of Personally Identifiable Information
 
-Detect and redact Personally Identifiable Information (PII).
+Detect and redact Personally Identifiable Information (PII). Still very much work in progress.
 
 ## PII Types
-The table below summarises the types of PII that can currently be detected by PrivateEye:
+The table below summarises the types of PII that Loupe can detect:
 
 | PII Type | Label | Method |
 | -------- | ----- | ------ |
