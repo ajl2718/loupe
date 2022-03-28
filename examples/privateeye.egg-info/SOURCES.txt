@@ -1,0 +1,17 @@
+README.md
+setup.py
+privateeye/BaseInspector.py
+privateeye/PrivateEye.py
+privateeye/TextInspector.py
+privateeye/__init__.py
+privateeye/check_digits.py
+privateeye/patterns.jsonl
+privateeye/pii_utils.py
+privateeye/text_extraction.py
+privateeye/text_processing.py
+privateeye/utils.py
+privateeye.egg-info/PKG-INFO
+privateeye.egg-info/SOURCES.txt
+privateeye.egg-info/dependency_links.txt
+privateeye.egg-info/requires.txt
+privateeye.egg-info/top_level.txt
