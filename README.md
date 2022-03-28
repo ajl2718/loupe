@@ -71,4 +71,4 @@ uvicorn main:app --reload
 ```
 
 ## How it works
-PrivateEye uses spaCy's (https://www.spacy.io) Rule-based Matcher along with its pretrained Named Entity Recognition models to detect different types of PII. 
+Loupe uses spaCy's (https://www.spacy.io) Rule-based Matcher along with its pretrained Named Entity Recognition models to detect different types of PII. 
