@@ -1,7 +1,7 @@
 from typing import Optional
 from fastapi import FastAPI, File, UploadFile
 from pydantic import BaseModel
-from deid import TextInspector
+from loupe import TextInspector
 from io import StringIO, BytesIO
 from docx import Document
 import pdfplumber
