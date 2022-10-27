@@ -39,11 +39,6 @@ Install poetry
 pip install poetry
 poetry install
 ```
-Ensure that all the libraries are up to date:
-
-```
-poetry install
-```
 
 Now you'll need to load in the en_core_web_lg language model:
 
